@@ -1,0 +1,28 @@
+{
+  "@@locale": "ru",
+  "app_title": "Каталог крейтов",
+  "search_hint": "Поиск крейтов",
+  "loading": "Загрузка…",
+  "error_title": "Что-то пошло не так",
+  "error_retry": "Повторить",
+  "empty_list": "Ничего не найдено",
+  "back": "Назад",
+  "dependencies": "Зависимости",
+  "no_dependencies": "Нет зависимостей",
+  "owner": "Владелец",
+  "downloads": "Загрузки",
+  "version": "Версия",
+  "versions": "Версии",
+  "repository": "Репозиторий",
+  "documentation": "Документация",
+  "description_missing": "Нет описания",
+  "login": "Логин",
+  "user_name": "Имя",
+  "theme_toggle": "Тема",
+  "language_toggle": "Язык",
+  "data_source_mock": "Тестовые данные",
+  "data_source_network": "crates.io"
+,
+  "favorites": "Избранное",
+  "favorites_empty": "Список избранного пуст"
+}

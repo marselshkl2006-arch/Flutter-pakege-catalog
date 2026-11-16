@@ -1,0 +1,28 @@
+{
+  "@@locale": "en",
+  "app_title": "Crates Catalog",
+  "search_hint": "Search crates",
+  "loading": "Loading…",
+  "error_title": "Something went wrong",
+  "error_retry": "Retry",
+  "empty_list": "Nothing found",
+  "back": "Back",
+  "dependencies": "Dependencies",
+  "no_dependencies": "No dependencies",
+  "owner": "Owner",
+  "downloads": "Downloads",
+  "version": "Version",
+  "versions": "Versions",
+  "repository": "Repository",
+  "documentation": "Documentation",
+  "description_missing": "No description",
+  "login": "Login",
+  "user_name": "Name",
+  "theme_toggle": "Theme",
+  "language_toggle": "Language",
+  "data_source_mock": "Mock data",
+  "data_source_network": "crates.io"
+,
+  "favorites": "Favorites",
+  "favorites_empty": "Favorites list is empty"
+}
