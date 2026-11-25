@@ -1,0 +1,8 @@
+{
+  "appTitle": "Crates Catalog",
+  "searchHint": "Search crates...",
+  "noResults": "Nothing found",
+  "detailsTitle": "Crate Details",
+  "theme": "Theme",
+  "language": "Language"
+}
