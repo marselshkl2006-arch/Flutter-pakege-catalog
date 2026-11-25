@@ -1,0 +1,1 @@
+/home/marsel/projects/Cros-Dev/crates_catalog_flutter/build/app/intermediates/cxx/Debug/4m614r2v/obj/x86
